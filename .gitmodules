@@ -3,5 +3,6 @@
   url = git@github.com:comgsi/component1.git
   ignore = all
 [submodule "sorc/GSI"]
-	path = sorc/GSI
-	url = git@github.com:comgsi/GSI.git
+  path = sorc/GSI
+  url = git@github.com:comgsi/GSI.git
+  ignore = all
